@@ -1,3 +1,5 @@
+// Código só pra usar IF e ELSE
+
 #include <stdio.h>
 #include <locale.h>
 
